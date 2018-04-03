@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+module.exports={
+    qiniu:{
+        AK:'xYiiJWPt-93LV_xlcM20yYkB-QvU7Py0FQ5VvGG7',
+        SK:'ltHbHtbHhsEwW9wINih12VeINW6kOgUDt0PQ4kYD',
+        bucket:'yugao'
+    },
+    mongodb:{
+        db:'mongodb://localhost:27017/lijun'
+    },
+    domainName:'images.junlintianxiazhifulinzhongguo.com'
+}
